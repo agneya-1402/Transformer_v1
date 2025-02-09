@@ -56,7 +56,7 @@ python main_1.py
 * Transformer: Stacks multiple encoder and decoder layers to form the complete Transformer architecture.
 
 ## References
-DataCamp Tutorial: Building a Transformer with PyTorch
+DataCamp Tutorial: Building a Transformer with PyTorch<br>
 Original Research Paper: Attention is All You Need
 
 ## Acknowledgments
